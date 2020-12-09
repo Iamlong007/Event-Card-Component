@@ -53,7 +53,7 @@
           <h3
             class="text-center text-sm font font-quicksand text-gray-700 pt-2 font-medium"
           >
-            Please click next to preview other purchased tickets
+            Please click next to preview other purchased tickets.
           </h3>
           <div class="w-12/12 mt-10 flex flex-row justify-between">
             <div>
